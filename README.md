@@ -1,5 +1,6 @@
 ![logo](logo.png)
 
+
 **pocoMC is a Python implementation of the Preconditioned Monte Carlo method for accelerated Bayesian inference**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/minaskar/pocomc/blob/master/LICENSE)
