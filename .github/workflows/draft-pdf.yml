@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - joss-test
     paths:
       - 'joss/paper.md'  # Only run workflow on pushes where paper.md was changed
 
